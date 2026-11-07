@@ -1,0 +1,29 @@
+MESSAG8 - VERSION MAC
+=====================
+
+Créer l'application (une seule fois, sur le Mac)
+------------------------------------------------
+1. Copiez le dossier « Messag8-Mac » sur le Mac (clé USB, AirDrop, OneDrive...).
+2. Ouvrez l'app « Terminal » (Applications > Utilitaires > Terminal).
+3. Si c'est la première fois, installez les outils Apple (gratuit, environ 5 min) :
+       xcode-select --install
+   puis cliquez sur « Installer » dans la fenêtre qui apparaît.
+   (S'il indique que c'est déjà installé, passez à l'étape 4.)
+4. Dans le Terminal, tapez  bash  suivi d'un espace, glissez le fichier
+   « src/build.sh » dans la fenêtre du Terminal, puis appuyez sur Entrée.
+5. « Messag8.app » apparaît dans le dossier « Messag8-Mac ».
+   Glissez-la dans le dossier Applications.
+
+Utilisation
+-----------
+- Branchez le 2e moniteur en mode ÉTENDU (Réglages Système > Moniteurs :
+  pas « Recopie »). L'écran participant s'y affiche automatiquement en plein écran.
+- Écran 1 : tapez le message. L'aperçu en bas montre ce que voit le participant.
+
+Raccourcis
+  ⌘ Retour   Envoyer (quand « Temps réel » est décoché)
+  ⌘ F  / F5  FLASH
+  ⌘ B  / F8  Masquer / afficher le texte
+  ⌘ K  / F9  Effacer
+  ⌘ E        Afficher / masquer l'écran participant
+  (Sur un clavier Mac, F5/F8/F9 peuvent nécessiter la touche fn.)
