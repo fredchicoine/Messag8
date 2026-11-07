@@ -1,5 +1,14 @@
 # Messag8
 
+## ⬇️ Télécharger
+
+| Système | Lien |
+|---|---|
+| **Windows** | [Télécharger Messag8.exe](https://github.com/fredchicoine/Messag8/releases/latest/download/Messag8.exe) — s'ouvre directement, aucune installation |
+| **Mac** | [Télécharger Messag8-Mac.zip](https://github.com/fredchicoine/Messag8/releases/latest/download/Messag8-Mac.zip) — décompresser, puis suivre `LISEZMOI.txt` |
+
+Toutes les versions : [Releases](https://github.com/fredchicoine/Messag8/releases)
+
 Logiciel pour envoyer du texte en plein écran sur un 2e moniteur, en temps réel (comme PowerPoint).
 L'opérateur tape le message sur l'écran 1 et le participant le voit sur l'écran 2.
 
